@@ -8,8 +8,8 @@ function presentation()
  
 
     🔭 let workingOn = false
-    🌱 let stydying = "computer’s science on an actual college";
-    🌎 let spokenLanguages = portuguese + english + spanish + italian
+    🌱 let stydying = "computer's science on an actual college";
+    🌎 let spokenLanguages = portuguese + english + spanish + italian;
     👯 let lookingToCollaborateWith = "translating docummentation";
     🤔 var lookingForHelpWith = "make a curriculum";
     👾 var favoriteLanguages = "Shell, CSS and C";
