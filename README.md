@@ -1,16 +1,22 @@
-### Hi there 👋
+```js
+function presentation()
+{
 
-<!--
-**iUseMintBTW/iUseMintBTW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ //* Howdy! I use mint, by the way. 👋
 
-Here are some ideas to get you started:
+ //* Feel welcomed. it's an order. 💕
+ 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+    🔭 let workingOn = false
+    🌱 let stydying = "computer’s science on an actual college";
+    🌎 let spokenLanguages = portuguese + english + spanish + italian
+    👯 let lookingToCollaborateWith = "translating docummentation";
+    🤔 var lookingForHelpWith = "make a curriculum";
+    👾 var favoriteLanguages = "Shell, CSS and C";
+    📫 var myDiscord = "AnaClaralh0#3538";
+    😄 const Pronouns: "they/them/she/her"; //descending order
+    ⚡ var funFact = "Imma linux user"
+
+}
+```
 -->
