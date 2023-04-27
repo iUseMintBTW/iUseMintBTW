@@ -1,5 +1,5 @@
 ```js
-function presentation()
+function presentation(ana)
 {
 
  //* Howdy! I use mint, by the way. 👋
@@ -7,7 +7,7 @@ function presentation()
  //* Feel welcomed. it's an order. 💕
  
 
-    🔭 let workingOn = false
+    🔭 let workingOn = false;
     🌱 let stydying = "computer's science on an actual college";
     🌎 let spokenLanguages = portuguese + english + spanish + italian;
     👯 let lookingToCollaborateWith = "translating docummentation";
