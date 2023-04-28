@@ -8,11 +8,11 @@ function presentation(ana)
  
 
     🔭 let workingOn = false;
-    🌱 let stydying = "computer's science on an actual college";
+    🌱 let stydying = "computer science on an actual college";
     🌎 let spokenLanguages = portuguese + english + spanish + italian;
-    👯 let lookingToCollaborateWith = "translating docummentation";
+    👯 let lookingToCollaborateWith = "translating documentation";
     🤔 var lookingForHelpWith = "make a curriculum";
-    👾 var favoriteLanguages = "Shell, CSS and C";
+    👾 var favoriteLanguages = "CSS, C and Shell";
     📫 var myDiscord = "AnaClaralh0#3538";
     😄 const Pronouns = "they/them/she/her"; //descending order
     ⚡ var funFact = "Imma linux user"
