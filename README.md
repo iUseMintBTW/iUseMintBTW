@@ -14,7 +14,7 @@ function presentation(ana)
     🤔 var lookingForHelpWith = "make a curriculum";
     👾 var favoriteLanguages = "Shell, CSS and C";
     📫 var myDiscord = "AnaClaralh0#3538";
-    😄 const Pronouns "they/them/she/her"; //descending order
+    😄 const Pronouns = "they/them/she/her"; //descending order
     ⚡ var funFact = "Imma linux user"
 
 }
