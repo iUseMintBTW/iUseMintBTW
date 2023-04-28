@@ -2,7 +2,7 @@
 function presentation(ana)
 {
 
- //* Howdy! I use Linux Mint, by the way. 👋
+ //* Howdy! I use mint, by the way. 👋
 
  //* Feel welcomed. it's an order. 💕
  
