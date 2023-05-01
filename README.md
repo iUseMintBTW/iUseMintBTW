@@ -7,7 +7,7 @@ function presentation(ana)
  //* Feel welcomed. it's an order. 💕
  
 
-    🔭 let workingOn = false;
+    🔭 let workingOn = null;
     🌱 let stydying = "computer science on an actual college";
     🌎 let spokenLanguages = portuguese + english + spanish + italian;
     👯 let lookingToCollaborateWith = "translating documentation";
