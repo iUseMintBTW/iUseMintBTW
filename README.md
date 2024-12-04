@@ -2,7 +2,7 @@
 function anaPresentation()
 {
 
- //* Howdy! I use Arch, by the way. 👋
+ //* Howdy! I now actually use Arch, by the way. 👋
 
  //* Feel welcomed. it's an order. 💕
  
@@ -11,11 +11,11 @@ function anaPresentation()
     🌱 let stydying = ["computer science on an actual college", "Mandarin Chinese", "Web Design";
     🌎 let spokenLanguages = portuguese + english; // and don't worry, I know how to use translators 😘
     👯 let lookingToCollaborateWith = translating_documentation();
-    🤔 var lookingForHelpWith = "make a curriculum";
+    🤔 var lookingForHelpWith = findingARealJob();
     👾 var favoriteLanguages = "CSS, C and Bash";
     📫 var myDiscord = "brasino";
     😄 const Pronouns = "they/them/she/her"; //descending order
-    ⚡ var funFact = "I also use sway"
+    ⚡ var funFact = "I also use I3!"
 
 }
 ```
