@@ -7,12 +7,12 @@ function anaPresentation()
  //* Feel welcomed. it's an order. 💕
  
 
-    🔭 let workingOn = function wheatherApp();
-    🌱 let stydying = ["computer science on an actual college", "Mandarin Chinese", "Web Design";
+    🔭 let workingOn = aCallCenter;
+    🌱 let stydying = ["General High School Contents", "Mandarin Chinese", "Web Design";
     🌎 let spokenLanguages = portuguese + english; // and don't worry, I know how to use translators 😘
     👯 let lookingToCollaborateWith = translating_documentation();
-    🤔 var lookingForHelpWith = findingARealJob();
-    👾 var favoriteLanguages = "CSS, C and Bash";
+    🤔 var lookingForHelpWith = passInATest;
+    👾 var favoriteLanguages = "JS, TS and Bash";
     📫 var myDiscord = "brasino";
     😄 const Pronouns = "they/them/she/her"; //descending order
     ⚡ var funFact = "I also use I3!"
