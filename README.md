@@ -7,7 +7,7 @@ function anaPresentation()
  //* Feel welcomed. it's an order. 💕
  
 
-    🔭 let workingOn = aCallCenter;
+    🔭 let workingOn = aCallCenter🧵;
     🌱 let stydying = ["General High School Contents", "Mandarin Chinese", "Web Design";
     🌎 let spokenLanguages = portuguese + english; // and don't worry, I know how to use translators 😘
     👯 let lookingToCollaborateWith = translating_documentation();
